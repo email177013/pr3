@@ -2,4 +2,4 @@ hello!
 
 it is my first text file!
 
-something update1
+something different update1
